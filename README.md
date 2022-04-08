@@ -1,1 +1,1 @@
-# lag.hotel
+# lag.hotel - учебный проект
